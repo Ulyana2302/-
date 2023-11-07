@@ -1,0 +1,86 @@
+body {
+	background-color:#B0E0E6;
+}
+
+.q {
+	font-family:Mistral;
+	font-size:50px;
+}
+
+h3 {
+	font-family:Monotype Corsiva;
+	font-size:35px;
+}
+
+.qw {
+	width:400;
+	height:300;
+	border:10px ridge black;
+	border-radius:70%;
+}
+
+.qwe {
+	width:500;
+	height:300;
+	border:10px solid white;
+}
+
+.were {
+	width:450;
+	height:300;
+	border:10px solid pink;
+}
+
+.mki {
+	width:500;
+	height:300;
+	border:25PX ridge #00ffff;
+}
+
+.qwertyuiop {
+	width:1200;
+	height:1000;
+	border:15px double #cc99ff;
+	
+}
+
+p {
+	font-size:20px;
+}
+
+.a {
+	background-color:#0000FF;
+	border:none;
+	color:#FFFF00;
+	padding:15px 32px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size:16px;
+	border-radius: 25px;
+	
+}
+
+.b {
+	background-color:#FFFF00;
+	border:none;
+	color:#0000FF;
+	padding:15px 32px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size:16px;
+	border-radius: 25px;
+}
+
+   .a:hover {
+	background-color:white;
+	color:black;
+	border:2px solid white;
+}
+
+   .b:hover {
+	background-color:white;
+	color:black;
+	border:2px solid white;
+}
